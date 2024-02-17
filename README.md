@@ -1,4 +1,8 @@
 # NES Label Slider
+
+Original author code site:
+https://github.com/davidxgames/NES-Label-Slider
+
 View the entire collection of Nintendo Entertainment System game covers on a tft screen.
 
 ![alt text](NesLabelSlider.png?raw=true)
